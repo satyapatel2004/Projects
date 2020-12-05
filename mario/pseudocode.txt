@@ -1,0 +1,4 @@
+1. Ask user for the height of the half pyramid 
+2. If Height is less than 1, greater than 8, ask again 
+until said conditions are met 
+3. Loop for printing the pyramid for 1 through input value
